@@ -3,11 +3,6 @@ practical project built based on @origamid course.
 On this course I've learnt how to make any wordpress website easy editable through CMS(content management system).
 We've created a new theme from scratch and add it on wordpress , creating the CMS feature and editing the content through that.
 
-### Features 💻
-- **Html**
-- **CSS**
-- **PHP**
-- **Wordpress** 
 
 ### Preview
 
